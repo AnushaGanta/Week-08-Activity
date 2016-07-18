@@ -1,1 +1,0 @@
-This file is just for the Week 08 Activity in UNIX Programming.
